@@ -1,0 +1,4 @@
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\win-x86\PubTmp\Out\appsettings.Development.json
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\win-x86\PubTmp\Out\appsettings.json
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\win-x86\PubTmp\Out\WebApplication1.pdb
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\win-x86\PubTmp\Out\WebApplication1.exe

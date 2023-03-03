@@ -1,0 +1,12 @@
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\Database\bin\Debug\net6.0\Database.deps.json
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\Database\bin\Debug\net6.0\Database.dll
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\Database\bin\Debug\net6.0\Database.pdb
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\Database\obj\Debug\net6.0\Database.dll
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\Database\obj\Debug\net6.0\refint\Database.dll
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\Database\obj\Debug\net6.0\Database.pdb
+D:\React Tutorial2\ReactJS-NetCoreWebAPI-MSSQL-main\api\WebApplication1\Database\obj\Debug\net6.0\ref\Database.dll
